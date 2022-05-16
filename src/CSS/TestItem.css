@@ -1,0 +1,18 @@
+.test-item {
+    width: 50%;
+    border: 1px solid #222;
+    padding: 10px;
+}
+.test-info {
+    display: flex;
+    gap: 300px
+}
+.theme{
+    border-radius: 8%;
+}
+
+.form{
+    width: 50%;
+    margin-left: 30%;
+    padding: 10px;
+}
